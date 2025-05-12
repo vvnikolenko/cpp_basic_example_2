@@ -31,3 +31,5 @@
 *.out
 *.app
 /.vs
+/ConsoleApplication1/.vs/ConsoleApplication1
+*.user
