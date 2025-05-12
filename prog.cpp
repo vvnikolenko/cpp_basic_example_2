@@ -1,4 +1,5 @@
 int func1()
 {
-	return 5;
+	int f = 76;
+	return f - 5;
 }
